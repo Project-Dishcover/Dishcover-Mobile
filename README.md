@@ -2,7 +2,8 @@
 Mobile Development Dishcover
 
 
-This repository contains a Mobile Aplication Dishcover using Kotlin and Compose 
+This repository contains a Mobile Aplication Dishcover using Kotlin and Compose with using Design Pattern MVVM
+
 Feature:
 completed
 - register
